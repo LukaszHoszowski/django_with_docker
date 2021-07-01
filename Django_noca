@@ -1,0 +1,67 @@
+Django agenda:
+1. Setup project
+	- Docker
+	- PostgreSQL
+2. Bookstore project
+	- Docker
+	- PostgreSQL
+	- Model (Form, Admin)
+	- Tests
+3. Templates
+	- URLs
+	- Views
+	- Testing 
+		- Templates
+		- HTML
+		- Fixtures
+4. User Registration
+	- Authentication
+	- Authorization
+	- Preparing Test Data
+5. Static assets
+	- Javascript
+	- CSS
+		- Bootstrap
+	- Images
+	- Fonts
+	- Django Crispy Forms
+6. Advanced User Registration
+	- Email login
+	- Email service
+	- Other login possibilities
+7. Environment Variables
+8. Upload/Download images
+9. Permissions
+	- Custom
+	- Groups
+10. Search
+11. Performance
+12. Security
+	- SQL Injection
+	- XSS
+	- CSRF
+	- Clickjacking Protection
+	- SSL
+	- Secure Cookies
+	- Admin
+13. Deployment
+14. Django REST Framework
+	- Web APIs
+	- Django + React
+	- Permissions
+	- User Authentication
+	- Viewssets
+	- Routers
+	- Schemas
+	- Documentation
+	
+	
+PIPENV - pipenv shell -> pipenv install
+
+django-admin startproject . -> kropka w folderze w ktorym jestes
+
+Docker hub - python, postgres, 
+
+docker-compose down --rmi all --volumes -> zamyka wszystkie volumeny
+
+
